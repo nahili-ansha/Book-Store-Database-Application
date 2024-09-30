@@ -1,4 +1,4 @@
-# Book-Management-System
+# Book-Store-Database-Application
 
 ## Description
 This project is a Book Management System built using Python and the Tkinter library. It allows users to manage a collection of books by providing functionality to view, search, add, update, and delete book records stored in a SQLite database. The graphical user interface enables easy management of the book information, such as title, author, year of publication, and ISBN.
